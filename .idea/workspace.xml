@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8ee1290-9104-4b22-b232-947d8c0e42e5" name="Changes" comment="" />
+    <list default="true" id="a8ee1290-9104-4b22-b232-947d8c0e42e5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/review3/ForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/review3/ForLoopExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/review3/SwitchDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/review3/While.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +23,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -29,12 +39,13 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "last_opened_file_path": "C:/Users/smash/IdeaProjects/JavaReview"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.SwitchDemo">
-    <configuration name="LogicalOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.review3.LogicalOperators" />
+  <component name="RunManager" selected="Application.While">
+    <configuration name="ForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.review3.ForLoop" />
       <module name="JavaReview" />
       <extension name="coverage">
         <pattern>
@@ -46,25 +57,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NestedIf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.suntax.review2.NestedIf" />
+    <configuration name="ForLoopExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.review3.ForLoopExamples" />
       <module name="JavaReview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.suntax.review2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ScannerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.suntax.review2.ScannerExample" />
-      <module name="JavaReview" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.suntax.review2.*" />
+          <option name="PATTERN" value="com.syntax.review3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +83,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.syntax.review2.ScannerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.review2.ScannerExample" />
+    <configuration name="SwitchDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.review3.SwitchDemo2" />
       <module name="JavaReview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.syntax.review2.*" />
+          <option name="PATTERN" value="com.syntax.review3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="While" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.review3.While" />
+      <module name="JavaReview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.syntax.review3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.While" />
+        <item itemvalue="Application.ForLoopExamples" />
+        <item itemvalue="Application.ForLoop" />
+        <item itemvalue="Application.SwitchDemo2" />
         <item itemvalue="Application.SwitchDemo" />
-        <item itemvalue="Application.LogicalOperators" />
-        <item itemvalue="Application.com.syntax.review2.ScannerExample" />
-        <item itemvalue="Application.ScannerExample" />
-        <item itemvalue="Application.NestedIf" />
       </list>
     </recent_temporary>
   </component>
